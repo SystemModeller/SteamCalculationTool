@@ -14,7 +14,7 @@ The work will also require the SQL database and you will need to populate the da
 Data such as the:  SI Properties of Saturated Steam and Saturated Water (Temperature) : 
 Department of Mechanical Engineering, Stanford University,  should be used. 
 The data for this project originates from the book: 
-“STEAM it’s generation and use”, 40th edition, 1992, Babcock and Wilcox.
+“STEAM its generation and use”, 40th edition, 1992, Babcock and Wilcox.
 
 As stated this is a personal project and not in any way connected to my professional work.
 
