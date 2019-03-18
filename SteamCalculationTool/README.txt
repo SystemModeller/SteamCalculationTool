@@ -13,6 +13,8 @@ The data for this project originates from the book:
 
 As stated this is a personal project and not in any way connected to my professional work.
 
+//TOD Add in checks to entries
+
 //TODO Produce class library version (with exception handling)
 
 //TODO Add unit tests
